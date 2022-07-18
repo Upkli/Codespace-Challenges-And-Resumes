@@ -1,0 +1,62 @@
+body{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+  color: white;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  
+}
+
+h1{
+  text-align: center;
+  color: white
+}
+
+h3{
+  text-align: left;
+  color: black;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+}
+
+
+ul{
+  margin: 0; /* Remove margins */
+  color: black;
+}
+
+#sidebar{
+  width: 17%;
+  height: auto;
+  background-color: #45462A
+}
+
+h2{
+  color: black;
+  text-align: left;
+}
+
+p{
+  text-align: left;
+  color: black;
+}
+#myheader{
+  color: white;
+  
+}
+#Bp{
+text-align: center;
+}
+#ic{
+  text-align: center;
+}
+#lis{
+  list-style-type: none; /* Remove bullets */
+}
